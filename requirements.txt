@@ -1,0 +1,13 @@
+geopandas
+shapely
+fiona
+pyproj
+rasterio
+pdfplumber
+pytesseract
+pillow
+opencv-python
+laspy
+pdal
+ezdxf
+jsonschema
